@@ -1,0 +1,16 @@
+.encabezado{ padding: 10 px ;
+    font: 100 px ;
+border: none ;
+background-color:aliceblue;
+color: red;
+cursor:pointer;
+box-shadow: 10px 10px 15px;
+transition: all 0.9s ease;
+}
+.encabezado :hover{ scale: 10.5;
+font-weight: bolder;
+background-color: aqua
+color(srgb red green blue)
+transform  trans2ateY(-5px);
+
+}
